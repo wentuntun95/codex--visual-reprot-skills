@@ -1,0 +1,7 @@
+interface:
+  display_name: "汇报长图"
+  short_description: "生成文字准确、图片清晰且可持续修改的专业汇报长图生产流程"
+  brand_color: "#2F6BFF"
+  default_prompt: "使用 $report-long-poster 根据我的内容和素材制作一张汇报长图，并选择合适的制作模式。"
+policy:
+  allow_implicit_invocation: true
